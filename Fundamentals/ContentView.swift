@@ -18,18 +18,13 @@ struct ContentView: View {
                     .foregroundStyle(.orange)
                     .scaledToFit()
                     .scaleEffect(0.6)
-//                    .background(.blue)
-    //                .border(.orange)
-//                    .padding(.trailing, 30.0)
             }
                 
             Text("You Are Awesome!")
                 .font(.largeTitle)
                 .fontWeight(.bold)
                 .foregroundColor(.red)
-//                .border(.red)
-//                .background(.yellow)
-//            Spacer()
+
         }
 //        .border(.purple)
         .padding()
